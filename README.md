@@ -10,4 +10,5 @@
 - 校园地图、地点、路线等数据**并非开源**，请勿擅自使用、复制或二次分发。
 - 如涉及版权或其他权益问题，请及时联系删除：steve7811d@qq.com
 ## 制作说明
-- 太伟大了deepseek
+- 由Jay&Niko vibecoding制作
+- 太伟大了deepseek&GPT
